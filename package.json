@@ -1,0 +1,27 @@
+{
+  "name": "project-name",
+  "version": "0.0.1",
+  "description": "project-name",
+  "repository": "git@github.com:sugarshin/project-name.git",
+  "devDependencies": {
+    "coffeelint": "",
+    "grunt": "",
+    "grunt-browser-sync": "",
+    "grunt-coffeelint": "",
+    "grunt-contrib-coffee": "",
+    "grunt-contrib-concat": "",
+    "grunt-contrib-cssmin": "",
+    "grunt-contrib-handlebars": "",
+    "grunt-contrib-imagemin": "^",
+    "grunt-contrib-jade": "",
+    "grunt-contrib-stylus": "",
+    "grunt-contrib-uglify": "",
+    "grunt-contrib-watch": "",
+    "grunt-html-validation": "",
+    "grunt-newer": "",
+    "grunt-notify": "",
+    "grunt-processhtml": "",
+    "grunt-ssh": "",
+    "load-grunt-tasks": ""
+  }
+}
